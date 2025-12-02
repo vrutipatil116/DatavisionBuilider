@@ -1,0 +1,5 @@
+{
+  "name": "Excel Data Viewer",
+  "description": "A robust React application to upload, parse, and visualize Excel and CSV data using a clean, Bootstrap-styled interface.",
+  "requestFramePermissions": []
+}
